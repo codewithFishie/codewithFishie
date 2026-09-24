@@ -18,7 +18,7 @@ class SoftwareEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = Researcher()
 me.say_hi()
 ```
 <div align=center>
