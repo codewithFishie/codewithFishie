@@ -7,7 +7,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class Researcher:
 
     def __init__(self):
         self.name = "Sumon Das"
